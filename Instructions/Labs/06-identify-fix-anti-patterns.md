@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Identify and fix anti-patterns
+
 In this exercise, you identify and fix five schema design anti-patterns using deliberately flawed data from the Cosmicworks dataset. For each anti-pattern, you load the flawed data, examine the problem, apply a fix, and verify the result.
 
 > [!NOTE]

@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Create and connect to a cluster
+
 In this exercise, you create an Azure DocumentDB cluster, connect to it using MongoDB Shell, and run test queries. This exercise uses the Azure portal and Cloud Shell.
 
 ## Create the cluster

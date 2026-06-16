@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Apply patterns to the e-commerce platform
+
 In this exercise, you explore 10 schema design patterns in the Cosmicworks e-commerce dataset. The dataset was designed with these patterns built in, so you examine how each pattern is implemented, run queries that demonstrate why the pattern matters, and make modifications that exercise the pattern's behavior.
 
 > [!NOTE]

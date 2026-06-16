@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Design a relationship model for an e-commerce platform
+
 In this exercise, you explore the data relationship modeling approaches from this module using the Cosmicworks e-commerce dataset. You load a real dataset into your Azure DocumentDB cluster and examine how one-to-one, one-to-many, many-to-many, and hybrid patterns are implemented across its collections. You then run queries that validate each relationship pattern and modify relationships in the data.
 
 > [!NOTE]

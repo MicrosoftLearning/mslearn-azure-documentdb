@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Build a product management application - Node.js
+
 In this exercise, you build a console application that connects to your Azure DocumentDB cluster and performs CRUD operations against the product catalog. You use Visual Studio Code and its integrated terminal to create, edit, and run the application.
 
 ## Prerequisites

@@ -10,6 +10,8 @@ lab:
     targetDate: '2026-06-30'
 ---
 
+# Build an Indexing Strategy for the E-Commerce Platform
+
 In this exercise, you build an indexing strategy for the Cosmicworks e-commerce database. You analyze query patterns without indexes, create targeted indexes using the ESR (Equality, Sort, Range) rule, and use the `explain()` command to verify that your indexes eliminate collection scans. With 1,000 products, 4,000 orders, and 5,000 reviews, the `explain()` output shows meaningful differences between indexed and unindexed queries.
 
 > [!NOTE]
